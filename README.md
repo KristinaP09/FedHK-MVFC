@@ -2,7 +2,7 @@
 
 **Repository Maintainer:** Kristina P. Sinaga (Independent Researcher)
 
-> **Notice:** Coding modifications are currently underway in preparation for publication. The repository may change frequently during this process.
+> **Notice:** The present study is undergoing modifications to its coding in preparation for publication. It is important to note that the repository may undergo frequent modifications during this process.
 
 ## Overview
 
@@ -38,5 +38,6 @@ If you find this repository useful for your research, please consider citing the
   publisher={}
 }
 ```
+
 
 
