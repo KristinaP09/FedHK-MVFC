@@ -7,8 +7,9 @@
 ## Overview
 
 This repository provides MATLAB implementations for HK-MVFC (Heat Kernel Multi-View Fuzzy Clustering) and its federated version, FedHK-MVFC, along with several baseline multi-view clustering algorithms. The implementations are based on the following papers:
-1. Sinaga, K. P. (2025). FedHK-MVFC: Federated Heat Kernel Multi-View Clustering. arXiv preprint arXiv:2509.15844. [[Link](https://arxiv.org/abs/2509.15844)](https://arxiv.org/abs/2509.15844)
-                                                     |
+1. Sinaga, K. P. (2025). FedHK-MVFC: Federated Heat Kernel Multi-View Clustering. arXiv preprint arXiv:2509.15844. [(https://arxiv.org/abs/2509.15844)](https://arxiv.org/abs/2509.15844)
+
+The following link provides access to the most recent article: https://github.com/KristinaP09/FedHK-MVFC/blob/main/FedHK_MVFC__Federated_Heat_Kernel_Multi_View_Clustering.pdf (please disregard the template employed in the PDF and direct your attention exclusively to the content).
 
 ## Dataset
 
@@ -40,6 +41,7 @@ If you find this repository useful for your research, please consider citing the
       url={https://arxiv.org/abs/2509.15844}, 
 }
 ```
+
 
 
 
