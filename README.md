@@ -76,9 +76,13 @@ If you use this code or the FedHK-MVFC method in your research, please cite:
 ## Contact
 Kristina P. Sinaga
 Email (primary): kristinasinaga41@gmail.com
+
 Email (will stay active forever, in case I lose access to my Gmail account or another one): kristinapestaria.sinaga@isti.cnr.it
+
 Website: https://kristinap09.github.io/
+
 GitHub: https://github.com/KristinaP09
+
 Feel free to open an issue or contact me directly for questions, suggestions, or collaboration opportunities.
 
 
@@ -86,6 +90,7 @@ Feel free to open an issue or contact me directly for questions, suggestions, or
 MIT License, because I’m not a monster 😉
 
 Thank you for your interest in FedHK-MVFC! ⭐ Star the repository if you find it useful.
+
 
 
 
