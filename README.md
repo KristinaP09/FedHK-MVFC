@@ -23,7 +23,9 @@ I will consider adding some real-world datasets in future updates. In the meanti
 
 **Kristina P. Sinaga**
 
-Email: [kristinasinaga41@gmail.com](mailto:kristinasinaga41@gmail.com)
+Email 1: [kristinasinaga41@gmail.com](mailto:kristinasinaga41@gmail.com)
+
+This email (which will stay active forever, in case I lose access to my Gmail account or another one) is important: [kristinapestaria.sinaga@isti.cnr.it](kristinapestaria.sinaga@isti.cnr.it)
 
 Website: [https://kristinap09.github.io/](https://kristinap09.github.io/)
 
@@ -41,6 +43,7 @@ If you find this repository useful for your research, please consider citing the
       url={https://arxiv.org/abs/2509.15844}, 
 }
 ```
+
 
 
 
