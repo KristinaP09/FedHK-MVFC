@@ -35,11 +35,12 @@ Synthetic multi-view datasets can be generated using `generate_synthetic_data.m`
 Feel free to adjust parameters (number of views, clusters, noise level, etc.) to create datasets suited to your experiments.
 
 ### Real-World Data
-The datasets used in this repository is generated synthetically using the generate_synthetic_data.m script. You can modify the parameters in the script to create datasets with different characteristics.
+The repository includes a template function `load_real_world_data.m`.  
+As an example, the Iris dataset is already configured and ready to use.  
+You can easily extend this function to load other popular multi-view datasets (e.g., BBC, Reuters, Caltech101-20, etc.) by formatting them as cell arrays.
 
-In the original paper, the author used only synthetic datasets for evaluation. However, you can also use real-world datasets by loading them into MATLAB and formatting them as required by the clustering algorithms. To accomodate real-world datasets, you may need to preprocess the data to ensure that it is in the correct format (e.g., cell arrays for multi-view data). I added a placeholder function load_real_world_data.m that you can modify to load your own datasets. For this purpose, I used Iris datasets as an example. I encourage you to explore and experiment with different real-world datasets to evaluate the performance of the clustering algorithms.
+Contributions of preprocessed real-world datasets are very welcome!
 
-I will consider adding some real-world datasets in future updates. In the meantime, feel free to contribute real-world datasets if you have any.
 
 ## Quick Start
 
@@ -83,6 +84,7 @@ Feel free to open an issue or contact me directly for questions, suggestions, or
 MIT License, because I’m not a monster 😉
 
 Thank you for your interest in FedHK-MVFC! ⭐ Star the repository if you find it useful.
+
 
 
 
