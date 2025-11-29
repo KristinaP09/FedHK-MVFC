@@ -517,4 +517,5 @@ xlabel('View');
 ylabel('View Weight');
 grid on;
 
+
 save('V_clients.mat', 'V_clients')
