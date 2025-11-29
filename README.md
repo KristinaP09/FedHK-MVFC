@@ -60,6 +60,7 @@ Detailed usage examples are provided in the demo/ folder.
 ## Citation
 If you use this code or the FedHK-MVFC method in your research, please cite:
 
+```citation
 @misc{sinaga2025fedhkmvfc,
   title={FedHK-MVFC: Federated Heat Kernel Multi-View Clustering},
   author={Kristina P. Sinaga},
@@ -69,6 +70,7 @@ If you use this code or the FedHK-MVFC method in your research, please cite:
   primaryClass={cs.LG},
   url={https://arxiv.org/abs/2509.15844}
 }
+```
 
 
 ## Contact
@@ -84,6 +86,7 @@ Feel free to open an issue or contact me directly for questions, suggestions, or
 MIT License, because I’m not a monster 😉
 
 Thank you for your interest in FedHK-MVFC! ⭐ Star the repository if you find it useful.
+
 
 
 
