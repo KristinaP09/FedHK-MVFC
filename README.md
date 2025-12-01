@@ -16,11 +16,7 @@ This repository contains MATLAB implementations of:
 The methods are introduced in the following paper:
 
 **K. P. Sinaga**, "FedHK-MVFC: Federated Heat Kernel Multi-View Clustering," arXiv preprint arXiv:2509.15844, 2025.  
-[arXiv link](https://arxiv.org/abs/2509.15844) | [PDF (latest version)](https://github.com/KristinaP09/FedHK-MVFC/blob/main/FedHK_MVFC__Federated_Heat_Kernel_Multi_View_Clustering.pdf)
-
-Please disregard the template employed in the PDF latest version and direct your attention exclusively to the content 😏
-
-## Features
+[arXiv link](https://arxiv.org/abs/2509.15844)
 
 - Clean, well-commented MATLAB code
 - Synthetic data generation with customizable parameters
