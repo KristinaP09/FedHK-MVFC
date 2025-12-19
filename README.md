@@ -3,6 +3,8 @@
 **Repository Maintainer:** Kristina P. Sinaga (Independent Researcher)  
 **Paper:** [FedHK-MVFC: Federated Heat Kernel Multi-View Clustering](https://arxiv.org/abs/2509.15844) (arXiv:2509.15844)
 
+**IEEE DataPort DOI:** [Synthetic Multi-View Cardiovascular Dataset for Federated Clustering](https://ieee-dataport.org/documents/synthetic-multi-view-cardiovascular-dataset-federated-clustering) (10.21227/cnrn-rt57)
+
 > **Important Notice**  
 > This repository is under active development in preparation for journal submission. Code and documentation may change frequently during this period.
 
@@ -68,6 +70,16 @@ If you use this code or the FedHK-MVFC method in your research, please cite:
 }
 ```
 
+```citation
+@data{cnrn-rt57-25,
+doi = {10.21227/cnrn-rt57},
+url = {https://dx.doi.org/10.21227/cnrn-rt57},
+author = {Kristina P. Sinaga},
+publisher = {IEEE Dataport},
+title = {Synthetic Multi-View Cardiovascular Dataset for Federated Clustering },
+year = {2025} }}
+```
+
 
 ## Contact
 Kristina P. Sinaga
@@ -86,6 +98,7 @@ Feel free to open an issue or contact me directly for questions, suggestions, or
 MIT License, because I’m not a monster 😉
 
 Thank you for your interest in FedHK-MVFC! ⭐ Star the repository if you find it useful.
+
 
 
 
